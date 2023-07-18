@@ -1,0 +1,7 @@
+/* p + p {
+    color: red;
+    font-weight: bold;
+  } */
+  div+p{
+    color: red;
+  }
